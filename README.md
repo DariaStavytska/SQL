@@ -31,7 +31,7 @@
 
 ![Завдання 9](https://github.com/DariaStavytska/SQL/blob/main/%D0%97%D0%B0%D0%B2%D0%B4%D0%B0%D0%BD%D0%BD%D1%8F%209.png)
 
-
+Знайти водіїв, які мають категорію А та D :
 ![Завдання 10](https://github.com/DariaStavytska/SQL/blob/main/%D0%97%D0%B0%D0%B2%D0%B4%D0%B0%D0%BD%D0%BD%D1%8F%2010.png)
 
 
