@@ -35,7 +35,7 @@
 ![Завдання 10](https://github.com/DariaStavytska/SQL/blob/main/%D0%97%D0%B0%D0%B2%D0%B4%D0%B0%D0%BD%D0%BD%D1%8F%2010.png)
 
 
-![table 2](https://github.com/DariaStavytska/SQL/blob/main/%D1%81%D1%85%D0%B5%D0%BC%D0%B0%202.png)
+![table 2](https://github.com/DariaStavytska/SQL/blob/main/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0%202.png)
 
 
 
